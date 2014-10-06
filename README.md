@@ -1,4 +1,5 @@
 # Hubot
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tombolaltd/hubot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
 cool. He's extendable with
